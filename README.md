@@ -1,6 +1,6 @@
 # About me.
 ---
-###### *The name darkwavelength was picked because other references to darkwave were already taken. It is meant to be a portmanteau, a playful reference to one of many of my beloved music genres and wavelength (both being "in sync" with a mutual understanding and light traveling in wavelengths): dark wave, new wave, goth, post punk, grunge, indie, indie sleaze, alt country, outlaw country, ranchera...✨*
+###### *The name darkwavelength was picked because other references to darkwave were already taken. It is meant to be a portmanteau, a playful reference to one of many of my beloved music genres and wavelength (both being "in sync" with a mutual understanding and light traveling in waves): dark wave, new wave, goth, post punk, grunge, indie, indie sleaze, alt country, outlaw country, ranchera...✨*
 
 - 🔭 I’m currently working on **my MySpace top 8**
 - 🌱 I’m currently learning: *this*
