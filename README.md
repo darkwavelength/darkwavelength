@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on **my MySpace top 8**
 - 🌱 I’m currently learning: *this*
-- 👯 I’m looking to collaborate on pizza 🍕
-- 💬 Ask me about vinyl, music, or gardening herbaceous perennials
+- 👯 I’m looking to collaborate on: pizza 🍕
+- 💬 Ask me about: vinyl, music, or gardening herbaceous perennials
 - 📫 How to reach me: 🌎🗺
-- ⚡ Fun fact: I like fun (and as a person who likes history, also some not fun) facts, but could never remember enough of them to go on Jeopardy!
+- ⚡ Fun fact: *I like fun (and as a person who likes history, also some not fun) facts, but could never remember enough of them to go on Jeopardy!*
 <!--
 REFERENCES
 Markdown cheatsheet link
